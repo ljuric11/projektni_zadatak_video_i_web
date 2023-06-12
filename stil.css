@@ -1,0 +1,57 @@
+h1{color: darkcyan;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 72px;
+	line-height: 50px;
+	width: 600px;
+	background-color: lightcyan;
+	padding: 20px;
+	text-align: center;
+	
+}
+.page-title {color: darkcyan;
+	 font-family: Lucijajuric;
+	 font-size: 72px;
+	 line-height: 50px;
+	 width: 600px;
+	 background-color: lightcyan;
+	 padding: 20px;
+	 text-align: center;
+	
+}
+.noviblok {
+	background-color:rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin:20px;
+}
+h2{color: darkcyan;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	line-height: 50px;
+	width: 600px;
+	background-color: lightcyan;
+	padding: 20px;
+	
+}
+p {
+	color: darkcyan;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightcyan;
+	padding: 20px;
+	}	
+body{
+	background-image: url("slike/pozadina.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ol{
+	color: darkcyan;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightcyan;
+	padding: 20px;
+}
