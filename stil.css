@@ -10,6 +10,7 @@ h1{color: darkcyan;
 }
 .page-title {color: darkcyan;
 	 font-family: Lucijajuric;
+	 src: url(Lucijajuric.ttf);
 	 font-size: 72px;
 	 line-height: 50px;
 	 width: 600px;
